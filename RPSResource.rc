@@ -1,0 +1,7 @@
+PAPER RCDATA "Paper.jpg"
+ROCK RCDATA "Rock.jpg"
+SCISSOR RCDATA "Scissor.jpg"
+DRAW RCDATA "Draw.jpg"
+LOSE RCDATA "you-lose.jpg"
+WON RCDATA "you-won.jpg"
+NEWGAME RCDATA "new_game.jpg"
